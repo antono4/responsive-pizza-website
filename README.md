@@ -1,2 +1,26 @@
-Last updated: 2026-09-09 13:09:55 WIB
-Last updated: 2026-09-09 13:10:05 WIB
+# responsive-pizza-website
+
+
+
+## 📋 Overview
+
+This repository contains **52 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-09 13:39:46 WIB*
